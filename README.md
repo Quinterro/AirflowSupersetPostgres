@@ -44,3 +44,13 @@ POSTGRES_DB: postgres
 PGADMIN_DEFAULT_EMAIL: admin@admin.com
 PGADMIN_DEFAULT_PASSWORD: admin
 ```
+
+Loginy i hasła do Airflow i Superset:
+
+```text
+Airflow User: airflow
+Airflow Passoword: airflow
+
+Superset User: admin
+Superset Password: admin
+```
