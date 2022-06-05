@@ -1,4 +1,4 @@
-# Airflow, Superset, Postgres
+# Airflow, Superset, PostgreSQL
 
 ## Uruchamianie
 
